@@ -1,5 +1,6 @@
-import 'package:feed_list_module/p_main_app/screens_p/home_screen.dart';
+
 import 'package:flutter/material.dart';
+import 'package:fullter_main_app/p_main_app/screens_p/home_screen.dart';
 
 void main() => runApp(MyApp());
 

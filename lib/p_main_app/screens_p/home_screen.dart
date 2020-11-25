@@ -1,7 +1,6 @@
 import 'dart:io';
-import 'package:feed_list_module/p_main_app/screens_p/feeds_screen.dart';
-import 'package:feed_list_module/p_main_app/utils_p/custom_left_profile_app_bar.dart';
-import 'package:feed_list_module/p_main_app/utils_p/screen_bottom_bar.dart';
+import 'package:fullter_main_app/p_main_app/utils_p/custom_left_profile_app_bar.dart';
+import 'package:fullter_main_app/p_main_app/utils_p/screen_bottom_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../utils_p/app_color.dart';
@@ -44,7 +43,7 @@ class _Home extends State<Home> with WidgetsBindingObserver {
     appDimens.appDimensFind(context: context);
 
     List<Widget> selectedScreensOnBottomMenu = <Widget>[
-      FeedsScreen(),
+      Container(),
       Container(),
       Container(),
       Container(),

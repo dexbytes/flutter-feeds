@@ -1,4 +1,4 @@
-import 'package:feed_list_module/p_main_app/utils_p/app_color.dart';
+import 'package:fullter_main_app/p_main_app/utils_p/app_color.dart';
 import 'package:flutter/material.dart';
 
 class ScreenBottomBar extends StatefulWidget {

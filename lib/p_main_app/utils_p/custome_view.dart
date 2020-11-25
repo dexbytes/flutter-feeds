@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 import 'dart:ui';
-import 'package:feed_list_module/p_main_app/utils_p/constant.dart';
+import 'package:fullter_main_app/p_main_app/utils_p/constant.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

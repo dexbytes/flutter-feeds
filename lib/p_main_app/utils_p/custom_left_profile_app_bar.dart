@@ -1,6 +1,6 @@
-import 'package:feed_list_module/p_main_app/utils_p/app_dimens.dart';
-import 'package:feed_list_module/p_main_app/utils_p/app_fonts.dart';
-import 'package:feed_list_module/p_main_app/utils_p/custome_view.dart';
+import 'package:fullter_main_app/p_main_app/utils_p/app_dimens.dart';
+import 'package:fullter_main_app/p_main_app/utils_p/app_fonts.dart';
+import 'package:fullter_main_app/p_main_app/utils_p/custome_view.dart';
 import 'package:flutter/material.dart';
 
 class CustomLeftProfileAppBar{
